@@ -7,4 +7,4 @@ Hey! 👋
 - ⚡ Avid MTBer
 
 
-[![MTN73's GitHub stats](https://github-readme-stats.vercel.app/api?username=MTN73)](https://github.com/anuraghazra/github-readme-stats)
+[![MTN73's GitHub stats](https://github-readme-stats.vercel.app/api?username=MTN73)](https://github.com/MTN73)
