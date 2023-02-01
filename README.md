@@ -9,4 +9,4 @@ Hey! 👋
 
 [![MTN73's GitHub stats](https://github-readme-stats.vercel.app/api?username=MTN73)](https://github.com/MTN73)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MTN73)](https://github.com/MTN73)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MTN73&layout=compact)](https://github.com/MTN73)
