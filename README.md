@@ -2,7 +2,7 @@
 
 - 🔭 Working on lots of projects across many languages
 - 🌱 Learning HTML/CSS/JS and Dart
-- 👯 Willing to contribute to open source code
+- 👯 Open source fan
 - 💬 Know Java, Processing, Python, Arduino C
 - ⚡ Avid MTBer
 
