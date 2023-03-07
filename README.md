@@ -1,9 +1,7 @@
 ### Hey! 👋
 
-- 🔭 Working on lots of projects across many languages
-- 🌱 Learning HTML/CSS/JS and Dart
-- 👯 Open source fan
-- 💬 Know Java, Processing, Python, Arduino C
+- 🌱 Learning Flutter and Svelte
+- 💬 Know Java, Processing, Python, Arduino C, HTML/CSS/JS
 - ⚡ Avid MTBer
 
 
