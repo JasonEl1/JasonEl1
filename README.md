@@ -1,4 +1,4 @@
 
-[![MTN73's GitHub stats](https://github-readme-stats.vercel.app/api?username=MTN73)](https://github.com/anuraghazra/github-readme-stats)
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JasonEl1"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MTN73&layout=compact&langs_count=10&hide=c,swift,kotlin,objective-c,cmake)](https://github.com/anuraghazra/github-readme-stats)
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonEl1&layout=donut&langs_count=5&hide=c,swift,kotlin,objective-c,cmake"/>
