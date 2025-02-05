@@ -1,11 +1,11 @@
 <a href="https://github.com/JasonEl1">
     <picture>
         <source
-            srcset="https://github-readme-stats.vercel.app/api?username=JasonEl1&show_icons=true&theme=onedark"
+            srcset="https://github-readme-stats.vercel.app/api?username=JasonEl1&show_icons=true&theme=onedark&hide_title=true&hide_rank=true"
             media="(prefers-color-scheme: dark)"
         />
         <source
-            srcset="https://github-readme-stats.vercel.app/api?username=JasonEl1"
+            srcset="https://github-readme-stats.vercel.app/api?username=JasonEl1&show_icons=true&hide_title=true&hide_rank=true"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
         <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JasonEl1"/>
