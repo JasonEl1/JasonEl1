@@ -6,8 +6,8 @@ Member of [McMaster Mars Rover Team](https://www.marsatmac.ca/), [McMaster Aeria
 
 Previous team captain of FIRST Robotics team [4992 Sparbotics](https://github.com/FRC4992).
 
-<details>
-<summary><b>Github Statistic</b>s</summary>
+
+### Github Statistics
 
 <a href="https://github.com/JasonEl1">
     <picture>
@@ -36,5 +36,3 @@ Previous team captain of FIRST Robotics team [4992 Sparbotics](https://github.co
         <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonEl1&layout=donut&langs_count=5"/>
     </picture>
 </a>
-
-</details>
