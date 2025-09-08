@@ -1,3 +1,14 @@
+## Welcome to my Github profile!
+
+Currently studying Mechatronics Engineering at McMaster University. 
+
+Member of [McMaster Mars Rover Team](https://www.marsatmac.ca/), [McMaster Aerial Robotics](https://www.macdrones.ca/), [McMaster Robosub](https://www.macrobosub.com/).
+
+Previous team captain of FIRST Robotics team [4992 Sparbotics](https://github.com/FRC4992).
+
+<details>
+<summary><b>Github Statistic</b>s</summary>
+
 <a href="https://github.com/JasonEl1">
     <picture>
         <source
@@ -26,13 +37,4 @@
     </picture>
 </a>
 
-<pre>
-    /$$$$$                                         /$$$$$$$$ /$$   /$$          Some of my favourite projects
-   |__  $$                                        | $$_____/| $$ /$$$$                        |
-      | $$  /$$$$$$   /$$$$$$$  /$$$$$$  /$$$$$$$ | $$      | $$|_  $$                        |      
-      | $$ |____  $$ /$$_____/ /$$__  $$| $$__  $$| $$$$$   | $$  | $$                        |
- /$$  | $$  /$$$$$$$|  $$$$$$ | $$  \ $$| $$  \ $$| $$__/   | $$  | $$                        |
-| $$  | $$ /$$__  $$ \____  $$| $$  | $$| $$  | $$| $$      | $$  | $$                        |
-|  $$$$$$/|  $$$$$$$ /$$$$$$$/|  $$$$$$/| $$  | $$| $$$$$$$$| $$ /$$$$$$                      |
- \______/  \_______/|_______/  \______/ |__/  |__/|________/|__/|______/                      ▼
-</pre>
+</details>
