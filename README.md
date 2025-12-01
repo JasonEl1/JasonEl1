@@ -2,7 +2,7 @@
 
 Currently studying Mechatronics Engineering at McMaster University. 
 
-Member of [McMaster Mars Rover Team](https://www.marsatmac.ca/), [McMaster Aerial Robotics](https://www.macdrones.ca/), [McMaster Robosub](https://www.macrobosub.com/).
+Member of [McMaster Mars Rover Team](https://www.marsatmac.ca/) and [McMaster Aerial Robotics](https://www.macdrones.ca/), previous member of [McMaster Robosub](https://www.macrobosub.com/).
 
 Previous team captain of FIRST Robotics team [4992 Sparbotics](https://github.com/FRC4992).
 
