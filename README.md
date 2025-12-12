@@ -7,32 +7,10 @@ Member of [McMaster Mars Rover Team](https://www.marsatmac.ca/) and [McMaster Ae
 Previous team captain of FIRST Robotics team [4992 Sparbotics](https://github.com/FRC4992).
 
 
-### Github Statistics
+### Statistics
 
-<a href="https://github.com/JasonEl1">
-    <picture>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api?username=JasonEl1&show_icons=true&theme=onedark&hide_title=true&hide_rank=true"
-            media="(prefers-color-scheme: dark)"
-        />
-        <source
-            srcset="https://github-readme-stats.vercel.app/api?username=JasonEl1&show_icons=true&hide_title=true&hide_rank=true"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JasonEl1"/>
-    </picture>
-</a>
-
-<a href="https://github.com/JasonEl1">
-    <picture>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonEl1&layout=donut&langs_count=5&theme=onedark"
-            media="(prefers-color-scheme: dark)"
-        />
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonEl1&layout=donut&langs_count=5"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonEl1&layout=donut&langs_count=5"/>
-    </picture>
-</a>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://githubcard.com/JasonEl1.svg?d=8ElHVl_v">
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://githubcard.com/JasonEl1.svg?d=f8-U_gPx">
+    <img height=275 src="https://githubcard.com/JasonEl1.svg?d=f8-U_gPx" alt="Statistics Card">
+</picture>
